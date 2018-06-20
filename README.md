@@ -1,13 +1,13 @@
 # Linguagens de Programação (3º Ano)
 
 ### 1º Bimestre:
-#### Prova - Classes Java
+* Prova - Classes Java
 
 -----
 
 ### 2º Bimestre:
-#### Trabalho - Linguagem *Go*
-
+* Trabalho - Linguagem *Go*
+* Trabalho - Jogo em Java
 -----
 
 ### 3º Bimestre:
