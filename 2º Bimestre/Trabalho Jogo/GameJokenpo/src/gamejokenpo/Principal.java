@@ -1,27 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package gamejokenpo;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author deinfo
- */
 public class Principal {
 
     static int p1 = 0;
     static int p2 = 0;
     
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-
+        
         JOptionPane.showMessageDialog(null, "Escolha: 0 = Pedra, 1 = Papel ou 2 = Tesoura");
 
         insereVal();
