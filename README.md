@@ -7,7 +7,7 @@
 
 ### 2º Bimestre:
 * Trabalho - Linguagem *Go*
-* Trabalho - Jogo em Java
+* Trabalho - Jogo em Java (Jokenpo)
 -----
 
 ### 3º Bimestre:
