@@ -2,7 +2,7 @@ package gamejokenpo;
 
 import javax.swing.JOptionPane;
 
-//Linguagens de Progração 2018
+//Linguagens de Programação 2018
 //Jogo "Jokenpo"
 //Eduardo Soares
 //Mateus Loman
