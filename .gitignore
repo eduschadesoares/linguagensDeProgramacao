@@ -67,12 +67,18 @@ target/
 
 # NetBeans specific
 nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
+test/   
 nbactions.xml
 nb-configuration.xml
+
+build.xml
+manifest.mf
+
 
 # OS
 .DS_Store
