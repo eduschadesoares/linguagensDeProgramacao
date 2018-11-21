@@ -14,14 +14,14 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 
 # 
 
-### [1º Semestre]
-[1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre)
-* [Prova - Classes Java](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre/prova)
+### [1º Semestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre)
+[1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/1%C2%BA%20Bimestre)
+* [Prova - Classes Java](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/1%C2%BA%20Bimestre/prova)
 
 
-[2º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre)
-* Trabalho - [Linguagem *Go*](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre/Trabalho%20LP%20-%20GoLang)
-* Trabalho - [Jogo em Java (Jokenpo)](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre/Trabalho%20Jogo/Jokenpo%20Java/src/gamejokenpo)
+[2º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre)
+* Trabalho - [Linguagem *Go*](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20LP%20-%20GoLang)
+* Trabalho - [Jogo em Java (Jokenpo)](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20Jogo/Jokenpo%20Java/src/gamejokenpo)
 
 #
 
