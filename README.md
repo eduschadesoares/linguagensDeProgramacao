@@ -8,19 +8,18 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 #
 
 #### Conteúdo 
-- [x] [1º Bimestre](#1º-bimestre) (Prova)
-- [x] [2º Bimestre](#2º-bimestre) (Trabalho)
+- [x] [1º Semestre](#1º-semestre) (Prova, Trabalhos)
 - [x] [2º Semestre](#2º-semestre) (Taxi Aéreo)
 - [x] [Exercícios](#exercícios) (Exercícios)
 
 # 
 
-### [1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre)
+### [1º Semestre]
+1) [1º Bimestre]((https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre))
 * [Prova - Classes Java](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre/prova)
 
-#
 
-### [2º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre)
+2) [2º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre)
 * Trabalho - [Linguagem *Go*](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre/Trabalho%20LP%20-%20GoLang)
 * Trabalho - [Jogo em Java (Jokenpo)](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/2%C2%BA%20Bimestre/Trabalho%20Jogo/Jokenpo%20Java/src/gamejokenpo)
 
