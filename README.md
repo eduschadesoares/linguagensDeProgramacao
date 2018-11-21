@@ -1,4 +1,4 @@
-<img align="right" width="300" height="200" src="https://github.com/eduschadesoares/linguagensDeProgramacao/blob/master/Media/1.jpeg">
+<img align="right" width="290" height="200" src="https://github.com/eduschadesoares/linguagensDeProgramacao/blob/master/Media/1.jpeg">
 
 # Linguagens de Programação (3º Ano)
 
