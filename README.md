@@ -1,3 +1,5 @@
+<img align="right" width="290" height="190" src="https://github.com/eduschadesoares/linguagensDeProgramacao/blob/master/Media/1.jpeg">
+
 # Linguagens de Programação (3º Ano)
 
 ### [1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre)
