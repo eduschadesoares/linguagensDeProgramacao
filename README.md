@@ -15,7 +15,7 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 # 
 
 ### [1º Semestre]
-[1º Bimestre]((https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre))
+[1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre)
 * [Prova - Classes Java](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre/prova)
 
 
