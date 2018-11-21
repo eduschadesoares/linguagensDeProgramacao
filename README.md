@@ -20,8 +20,8 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 
 
 [2º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre)
-* Trabalho - [Linguagem *Go*](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20LP%20-%20GoLang)
-* Trabalho - [Jogo em Java (Jokenpo)](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20Jogo/Jokenpo%20Java/src/gamejokenpo)
+* [Trabalho - Linguagem *Go*](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20LP%20-%20GoLang)
+* [Trabalho - Jogo em Java (Jokenpo)](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Semestre/2%C2%BA%20Bimestre/Trabalho%20Jogo/Jokenpo%20Java/src/gamejokenpo)
 
 #
 
