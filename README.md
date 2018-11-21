@@ -2,6 +2,11 @@
 
 # Linguagens de Programação (3º Ano)
 
+### Conteúdo refente à matéria de Linguagens de Programação
+Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da&nbsp;*[Universidade&nbsp;Estadual&nbsp;de&nbsp;Ponta&nbsp;Grossa](https://portal.uepg.br/)*
+
+#
+
 ### [1º Bimestre](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre)
 * [Prova - Classes Java](https://github.com/eduschadesoares/linguagensDeProgramacao/tree/master/1%C2%BA%20Bimestre/prova)
 
